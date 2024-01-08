@@ -1,0 +1,1 @@
+# Fashion-Foresight---Customer-segmentation-using-ad-campaign-response
